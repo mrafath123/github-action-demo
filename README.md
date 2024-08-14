@@ -23,7 +23,7 @@ This repository demonstrates how to set up and use GitHub Actions to automate wo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/mrafath123/github-action-demo.git
    cd your-repository
    ```
 
